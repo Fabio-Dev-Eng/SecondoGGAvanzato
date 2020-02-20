@@ -1,2 +1,0 @@
-# SecondoGGAvanzato
-Created with CodeSandbox
